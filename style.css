@@ -1,0 +1,171 @@
+.top-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.top-container img{
+    border-radius: 100px;
+}
+.top-item{
+    margin: 50px;
+    text-align: center;
+    justify-content: right;
+    
+}
+.top-container i{
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 50px;
+}
+.top-item-4{
+    height: auto;
+}
+
+.top-item-5{
+    height: auto;
+}
+
+.top-item-6{
+    height: auto;
+}
+
+.top-container button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    background-color: black;
+    height: 50px;
+    margin-right: 10px;   
+}
+
+.top-container h2{
+    margin-right: 40%;
+    margin-left: 10px;
+}
+
+#Pari{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin-left: 20%;
+    align-items: center;
+}
+
+#Pari .Der{
+    font-size: 500%;
+}
+
+#From{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin-left: 20%;
+    align-items: center;
+}
+
+#From div{
+    Margin:10px;
+
+}
+
+#From .icon{
+    font-size: 500%;
+}
+
+#Were{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    margin-left: 20%;
+}
+
+#Were .Sew{
+    font-size: 500%;
+}
+
+#Were div{
+    margin: 10px;
+}
+
+#Ref{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    margin-left: 20%;
+}
+
+#Ref .Cer{
+    font-size: 500%;
+}
+
+#Ref div{
+    margin: 10px;
+}
+
+#Xan{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    margin-left: 20%;
+}
+
+#Xan .Zan{
+    font-size: 500%;
+}
+
+#Xan div{
+    margin: 10px;
+}
+
+.bottom-container{
+    margin: 30px;
+    background-color: black;
+    height: 300px;
+    margin-right: 0;
+    margin-left: 0;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom-item{
+    color: white;
+    width: 500px;
+    margin: 10px;
+    align-items: center;
+}
+
+.bottom-item-4{
+    height: 250px;
+}
+
+.bottom-item-5{
+    height: 250px;
+}
+
+.bottom-item-6{
+    height: 250px;
+}
+
+.bottom-item-7{
+    height: 250px;
+}
+
+.bottom-container a{
+    color: white;
+    font-size: 50px;
+}
+
+.bottom-container i{
+    font-size: 50px;
+}
